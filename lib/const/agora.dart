@@ -1,0 +1,10 @@
+const APP_ID = '3452231b2a6b4f0f9c7e8d234927a407';
+const CHANNEL_NAME = 'ralphtest';
+const TEMP_TOCKEN = '007eJxTYNj68siumT9PFHX8dZf0udOodva9j/2el/NWirRwda6ScQxWYDA2MTUyMjZMMko0SzJJM0izTDZPtUgxMjaxNDJPNDEwf5p9IbUhkJGh44cUAyMUgvicDEWJOQUZJanFJQwMAKemI2g=';
+
+//ralphtest
+//appID : 3452231b2a6b4f0f9c7e8d234927a407
+
+//토큰은 24시간만 유효
+//agora.io에서 토큰 생성
+//RTC Token :007eJxTYNj68siumT9PFHX8dZf0udOodva9j/2el/NWirRwda6ScQxWYDA2MTUyMjZMMko0SzJJM0izTDZPtUgxMjaxNDJPNDEwf5p9IbUhkJGh44cUAyMUgvicDEWJOQUZJanFJQwMAKemI2g=
